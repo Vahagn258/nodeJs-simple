@@ -1,0 +1,12 @@
+{
+  "name": "test-node-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js test app for 4lock custom apps flow",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "author": "vahagntsarukyan",
+  "license": "MIT"
+}
